@@ -1,2 +1,2 @@
-# Machine-Learning-Algarthms
+# Machine-Learning-Algorithms
 All Algarithms
